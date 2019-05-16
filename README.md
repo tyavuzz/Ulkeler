@@ -1,1 +1,3 @@
-microsoft sql server dünyadaki ülkeler.  
+microsoft sql server dünyadaki ülkeler, ülkelerin illeri, illerin ilçeleri.
+
+
